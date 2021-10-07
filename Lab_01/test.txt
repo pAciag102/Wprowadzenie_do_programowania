@@ -1,1 +1,7 @@
 Hi uczymy się gita
+
+uzywane komendy:
+tworzenie nowego projektu:
+    dotnet new console
+uruchamianie projektu:
+    dotnet run
